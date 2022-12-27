@@ -1,6 +1,6 @@
 {
-	"name": "weky-slash",
-	"version": "0.0.1",
+	"name": "@drix10/weky-v14",
+	"version": "0.0.4",
 	"description": "updated version of weky. supports djs v14",
 	"main": "index.js",
 	"types": "typings/index.d.ts",
@@ -11,14 +11,17 @@
 		"weky",
 		"discord-games"
 	],
-	"homepage": "https://github.com/WekyDev/weky-npm#readme",
+	"publishConfig":{
+		"registry": "https://npm.pkg.github.com"
+	},
+	"homepage": "https://github.com/Drix10/weky-v14#readme",
 	"bugs": {
-		"url": "https://github.com/WekyDev/weky-npm/issues"
+		"url": "https://github.com/Drix10/weky-v14/issues"
 	},
 	"author": "Face#5454 + Sujal Goel#7602 + rayz#4986 + DRIX10#0001",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/WekyDev/weky-npm.git"
+		"url": "https://github.com/Drix10/weky-v14.git"
 	},
 	"dependencies": {
 		"chalk": "^4.1.1",
