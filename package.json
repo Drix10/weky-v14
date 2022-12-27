@@ -1,6 +1,6 @@
 {
 	"name": "@drix10/weky-v14",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "updated version of weky. supports djs v14",
 	"main": "index.js",
 	"types": "typings/index.d.ts",
@@ -12,7 +12,7 @@
 		"discord-games"
 	],
 	"publishConfig":{
-		"registry": "https://npm.pkg.github.com"
+		"registry": "https://npm.pkg.github.com/drix10"
 	},
 	"homepage": "https://github.com/Drix10/weky-v14#readme",
 	"bugs": {
